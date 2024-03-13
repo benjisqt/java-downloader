@@ -1,0 +1,7 @@
+{
+    "java8": {
+        "mac": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-macosx_x64.zip?_gl=1*11ajkjl*_ga*NTI0MDI4MTIxLjE3MTAzMzk3NDY.*_ga_42DEGWGYD5*MTcxMDMzOTc0NS4xLjEuMTcxMDMzOTg0Ny4yNy4wLjA.",
+        "win": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-win_x64.zip?_gl=1*8wy3wg*_ga*NTI0MDI4MTIxLjE3MTAzMzk3NDY.*_ga_42DEGWGYD5*MTcxMDMzOTc0NS4xLjEuMTcxMDMzOTgxNS41OS4wLjA.",
+        "linux": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-linux_x64.zip?_gl=1*d3hw36*_ga*NTI0MDI4MTIxLjE3MTAzMzk3NDY.*_ga_42DEGWGYD5*MTcxMDMzOTc0NS4xLjEuMTcxMDMzOTg3NC42MC4wLjA."
+    }
+}
